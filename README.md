@@ -18,6 +18,7 @@ Eu sou o Maycon, sou um programador Front End, atualmente estou aprendendo e cri
 <br>
 <a href="www.linkedin.com/in/maycon-gomes-8341b31a1"><img width="130px" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
 
+## :chart_with_downwards_trend:  Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconcezar7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
